@@ -1,0 +1,2 @@
+content	sefariate	content/
+overlay	chrome://browser/content/browser.xul	chrome://sefariate/content/script-compiler-overlay.xul
