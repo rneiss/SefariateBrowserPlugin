@@ -281,6 +281,10 @@
 
 }(this.sefaria = this.sefaria || {}));
 
+window.onload = function() {
 
 sefaria.link();
+
+}
+
 
